@@ -20,11 +20,6 @@ h2 {
   font-family: "Terrabyte", sans-serif;
   color: rgb(255,255,255, 0.7);
 }
-.jwpnavbar--scrolled {
-  height: 5.5rem;
-  backdrop-filter: blur(2px);
-}
-
 * {
   box-sizing: border-box;
   font-family: 'Exo 2', sans-serif;
