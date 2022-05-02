@@ -19,6 +19,9 @@ module.exports = {
         'blue_new_1': '#3500D3',
         'font_color': '#bfc0bf',
       },
+      fontFamily: {
+        'roboto': ['Roboto', 'sans-serif'],
+      },
       height: {
         '288': '72rem',
         '144': '36rem',
