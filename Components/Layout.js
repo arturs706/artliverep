@@ -2,7 +2,7 @@ import Nav from "./Nav"
 
 const Layout = ({ children }) => {
     return (
-        <div className="bg-indigo-500">
+        <div>
             <Nav/>
             <main>
                 {children}
