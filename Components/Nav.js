@@ -1,28 +1,6 @@
-import React, {useEffect} from 'react'
-import gsap from 'https://cdn.skypack.dev/gsap'
-import ScrollTrigger from "https://cdn.skypack.dev/gsap/ScrollTrigger";
 import Image from 'next/image'
 
 const Nav = () => {
-  
-  useEffect (() => {
-    gsap.registerPlugin(ScrollTrigger);
-    ScrollTrigger.create({
-      start: 'top -50',
-      end: 99999,
-      toggleClass: {className: 'jwpnavbar--scrolled', targets: ".target_class"}
-    });
-    gsap.to(".target_class", {
-      yPercent: -100,
-      ease: "none",
-      scrollTrigger: {
-        start: 'top -300',
-        end: 99999,
-        toggleActions: "play none none reverse"
-      }
-    });
-  }, []);
-
   return (
     <div className='w-full fixed top-0 left-0 ease-in duration-400 target_class h-16 z-50'>
       <div className='bg-gradient-to-r from-bg_custom_3 to-bg_custom_2 ... backdrop-filter backdrop-blur-lg bg-opacity-10 w-full h-20 flex justify-between items-center'>
