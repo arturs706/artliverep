@@ -1,0 +1,8 @@
+{
+  "https://cdn.skypack.dev/-/gsap@v3.10.4-XdyFN99nEgDRHW51sK5I/dist=es2019,mode=imports/optimized/gsap.js": { "integrity": "sha512-pO3ia3fOfQgMaETnEBHcyyq+16iIvQN1EabHmZ8Q/TpGNHtyO6V5d2Cnl6YmkJMeuHrp6NGMAq6Za1mBbq3hjQ==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/-/gsap@v3.10.4-XdyFN99nEgDRHW51sK5I/dist=es2019,mode=imports/unoptimized/Observer.js": { "integrity": "sha512-NrNSNU0IOXMr73okLlGve0lVFGo7YJ46X831N7EgGidEGRjT5aHxRkGdLdASikbmX1a/WQ2yzngEfln5y2Gkzw==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/-/gsap@v3.10.4-XdyFN99nEgDRHW51sK5I/dist=es2019,mode=imports/unoptimized/ScrollTrigger.js": { "integrity": "sha512-Wi5G9ThlCTDS0jvO1qoIY5T+UuWr9V1NrKsoiYaO2GMHIiY1JAekiiwguuvYcgqx0WnOSlLF9XlY5GrhE1QRmg==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/gsap": { "integrity": "sha512-uOlksg6/1Lts8IKtlyRYTHYVNJPDTgpH6cSW/7W7c1dZXuL7zURvmUl3r9Bd8HxYBLA6Ir45UHvtJHX9kbCCyw==", "contentType": "application/javascript; charset=utf-8" },
+  "https://cdn.skypack.dev/gsap/ScrollTrigger": { "integrity": "sha512-orhBBHDrXCp+r17zye2Ed1Pm0X9miBPuUfcBOfASc+3Sh/DSAYyJ97eIDYZYi0pd9Ft76ImJW1XpmebpEkQi1w==", "contentType": "application/javascript; charset=utf-8" },
+  "version": 1
+}
