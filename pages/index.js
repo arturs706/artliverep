@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 const Home = () => {
   return (
-    <div className='relative bg-gradient-to-r from-bg_custom_3 to-bg_custom_2 ...'>
+    <div className='relative'>
     <div className="h-screen flex content-center justify-center">
     <div className='text-12xl relative left-4 top-52 -z-2'><h1>ART &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LIVE</h1></div>
       
