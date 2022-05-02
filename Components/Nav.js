@@ -6,7 +6,7 @@ const Nav = () => {
     // const { data: session } = useSession()  
   return (
     <div className='w-full h-20 bg-slate-800'>
-
+        <h1 className='text-black'>hello</h1>
     </div>
   )
 }
