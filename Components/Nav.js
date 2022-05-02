@@ -26,7 +26,7 @@ const Nav = () => {
 
       
   return (
-    <div className='bg-gradient-to-r from-bg_custom_3 to-bg_custom_2 ... sticky w-full z-50 flex justify-between h-20 content-center'>
+    <div className='flex justify-between bg-gradient-to-r from-bg_custom_3 to-bg_custom_2 ... w-full h-20'>
         <div className='bg-red-500 flex items-center'>LOGO</div>
         <div className='bg-red-500 flex items-center'>AACCOUT</div>
     </div>
