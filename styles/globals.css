@@ -2,19 +2,32 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "Terrabyte";
+  src: url("/fonts/Terrabyte-Regular.otf");
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
-
-a {
-  color: inherit;
-  text-decoration: none;
+h1 {
+  font-family: "Terrabyte", sans-serif;
+  color: rgb(255,255,255, 0.7);
+}
+h2 {
+  font-family: "Terrabyte", sans-serif;
+  color: rgb(255,255,255, 0.7);
+}
+.jwpnavbar--scrolled {
+  height: 5.5rem;
+  backdrop-filter: blur(2px);
 }
 
 * {
   box-sizing: border-box;
+  font-family: 'Exo 2', sans-serif;
+  color: #ffff;
 }
+
