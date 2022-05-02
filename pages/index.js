@@ -14,6 +14,7 @@ const Home = () => {
           height={513}
           quality = {100}
           layout = 'responsive'
+          priority={true}
         />
       </div>
     </div>
